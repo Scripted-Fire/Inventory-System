@@ -1,1 +1,1 @@
-return require(script.Parent._Index["core-packages_react@0.0.1"]["react"])
+return require(script.Parent._Index["jsdotlua_react@17.2.1"]["react"])
