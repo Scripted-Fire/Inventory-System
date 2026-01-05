@@ -1,1 +1,1 @@
-local ReplicatedStorage
+local React = require(game.ReplicatedStorage.Packages)
