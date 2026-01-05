@@ -5,7 +5,8 @@ registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 
 [dependencies]
-React = "core-packages/react@0.0.1"
+React = "jsdotlua/react@17.2.1"
+ReactRoblox = "jsdotlua/react-roblox@17.2.1"
 Promise = "evaera/promise@4.0.0"
 Networker = "leifstout/networker@0.3.0"
 
